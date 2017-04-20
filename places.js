@@ -33,7 +33,7 @@ const places = [
     },
     {
         the: 'a',
-        name: 'sala do marcelo',
+        name: 'sala do Marcelo',
         in: 'na'
     },
     {
